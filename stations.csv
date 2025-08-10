@@ -1,0 +1,71 @@
+﻿Station,Name,City,State,Type
+DEL01,Dilshad Garden,Delhi,Delhi,Silence
+DEL02,"CPCB, HQ",Delhi,Delhi,Commercial
+DEL03,"DCE, Bawana",Delhi,Delhi,Silence
+DEL04,ITO,Delhi,Delhi,Commercial
+DEL05,"NSIT, Dwarka",Delhi,Delhi,Silence
+DEL06,Civil Lines,Delhi,Delhi,Commercial
+DEL07,R. K. Puram,Delhi,Delhi,Silence
+DEL08,Anand Vihar,Delhi,Delhi,Commercial
+DEL09,Mandir Marg,Delhi,Delhi,Silence
+DEL10,Punjabi Bagh,Delhi,Delhi,Residential
+BEN01,BTM,Bengaluru,Karnataka,Residential
+BEN02,Marathahalli,Bengaluru,Karnataka,Commercial
+BEN03,Nisarga Bhawan,Bengaluru,Karnataka,Residential
+BEN04,Parisar Bhawan,Bengaluru,Karnataka,Commercial
+BEN05,Peeniya,Bengaluru,Karnataka,Industrial
+BEN06,Yeshwanthpur,Bengaluru,Karnataka,Commercial
+BEN07,R.V.C.E.,Bengaluru,Karnataka,Silence
+BEN08,Whitefield,Bengaluru,Karnataka,Industrial
+BEN09,NIMHANS,Bengaluru,Karnataka,Silence
+BEN10,Domlur,Bengaluru,Karnataka,Residential
+CHE01,Eye Hospital,Chennai,Tamil Nadu,Silence
+CHE02,Guindy,Chennai,Tamil Nadu,Industrial
+CHE03,Perambur,Chennai,Tamil Nadu,Commercial
+CHE04,T. Nagar,Chennai,Tamil Nadu,Commercial
+CHE05,Triplicane,Chennai,Tamil Nadu,Residential
+CHE06,Pallikaranai,Chennai,Tamil Nadu,Commercial
+CHE07,Velachery,Chennai,Tamil Nadu,Residential
+CHE08,Washermanpet,Chennai,Tamil Nadu,Commercial
+CHE09,Anna Nagar,Chennai,Tamil Nadu,Silence
+CHE10,Sowcarpet,Chennai,Tamil Nadu,Residential
+HYD01,ABITS,Hyderabad,Telangana,Commercial
+HYD02,Jeedimetla,Hyderabad,Telangana,Industrial
+HYD03,Jublee Hills,Hyderabad,Telangana,Residential
+HYD04,Zoo,Hyderabad,Telangana,Silence
+HYD05,TSPCB,Hyderabad,Telangana,Commercial
+HYD06,Tarnaka,Hyderabad,Telangana,Residential
+HYD07,Gaddapotharam,Hyderabad,Telangana,Industrial
+HYD08,Gachibowli,Hyderabad,Telangana,Silence
+HYD09,Paradise,Hyderabad,Telangana,Commercial
+HYD10,JNTU,Hyderabad,Telangana,Commercial
+KOL01,Gol Park,Kolkata,West Bengal,Industrial
+KOL02,New Market,Kolkata,West Bengal,Commercial
+KOL03,Patauli,Kolkata,West Bengal,Residential
+KOL04,SSKM Hospital,Kolkata,West Bengal,Silence
+KOL05,WBPCB Headquarter,Kolkata,West Bengal,Commercial
+KOL06,Birati Neelachal,Kolkata,West Bengal,Residential
+KOL07,R G Kar Hospital,Kolkata,West Bengal,Silence
+KOL08,Tollygunge,Kolkata,West Bengal,Commercial
+KOL09,Bag Bazar,Kolkata,West Bengal,Residential
+KOL10,Tartala,Kolkata,West Bengal,Industrial
+LUC01,Talkatora,Lucknow,Uttar Pradesh,Industrial
+LUC02,Hazratganj,Lucknow,Uttar Pradesh,Commercial
+LUC03,P.G.I. Hospital,Lucknow,Uttar Pradesh,Silence
+LUC04,Indira Nagar,Lucknow,Uttar Pradesh,Residential
+LUC05,Gomti Nagar,Lucknow,Uttar Pradesh,Silence
+LUC06,Chinhat,Lucknow,Uttar Pradesh,Industrial
+LUC07,IT College,Lucknow,Uttar Pradesh,Silence
+LUC08,RSC Aliganj,Lucknow,Uttar Pradesh,Commercial
+LUC09,UPPCB HQ,Lucknow,Uttar Pradesh,Commercial
+LUC10,CCS Airport,Lucknow,Uttar Pradesh,Commercial
+MUM01,ASHP Hospital,Mumbai,Maharashtra,Silence
+MUM02,Bandra,Mumbai,Maharashtra,Commercial
+MUM03,"MPCB, HQ",Mumbai,Maharashtra,Commercial
+MUM04,Thane,Mumbai,Maharashtra,Commercial
+MUM05,VASHI Hospital,Navi Mumbai,Maharashtra,Silence
+MUM06,Kandivali,Mumbai,Maharashtra,Industrial
+MUM07,Powai,Mumbai,Maharashtra,Industrial
+MUM08,Chembur,Mumbai,Maharashtra,Residential
+MUM09,Andheri,Mumbai,Maharashtra,Industrial
+MUM10,CST,Mumbai,Maharashtra,Commercial
